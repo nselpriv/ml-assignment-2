@@ -1,2 +1,3 @@
 *.Identifier
 db/
+Poses_norm.npy
